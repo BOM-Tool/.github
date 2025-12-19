@@ -1,6 +1,6 @@
 <div align="center">
 
-# BOM-Tool
+# MCP-SAFER
 
 **MCP AI Agent 보안 분석 및 위험관리 플랫폼**
 
@@ -12,7 +12,8 @@
 
 ## 📖 소개
 
-BOM-Tool은 Model Context Protocol (MCP) 서버의 보안을 종합적으로 분석하고 관리하는 오픈소스 프로젝트입니다. 정적 코드 분석, 동적 분석, SBOM 생성, 취약점 분석 등 다양한 보안 도구를 통합하여 MCP 서버의 보안 위험을 사전에 탐지하고 관리할 수 있습니다.
+MCP-SAFER는 Model Context Protocol (MCP) Server의 보안을 종합적으로 분석하고 관리하는 오픈소스 프로젝트입니다. 
+위협모델링을 기반으로 MCP Server의 주요 위험요소를 식별하였으며, 해당 도구를 통해 MCP Server를 도입 및 운영할 때 보안 위험을 관리할 수 있습니다. 
 
 ## 🛠️ 주요 프로젝트
 
